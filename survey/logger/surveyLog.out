@@ -1,0 +1,4 @@
+2021-08-27 18:33:08:448 org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation(LogHelper.java:31)evel - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-08-27 18:33:08:512 org.hibernate.Version.logVersion(Version.java:44)evel - HHH000412: Hibernate ORM core version 5.4.32.Final 
+2021-08-27 18:33:08:654 org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit>(JavaReflectionManager.java:56)evel - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2021-08-27 18:33:09:845 org.hibernate.dialect.Dialect.<init>(Dialect.java:175)evel - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect 
